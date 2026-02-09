@@ -3,3 +3,6 @@ body{
     font-family: "Comic Sans MS";
 }
 
+button{
+    border-radius: 9px;
+}
