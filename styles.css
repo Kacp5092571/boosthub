@@ -6,4 +6,5 @@ body{
 button{
     border-radius: 9px;
     display: inline;
+    align-items: center;
 }
