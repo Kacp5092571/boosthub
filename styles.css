@@ -9,14 +9,14 @@ body{
 }
 
 #container2{
-    border-radius: 2px;
+    border-radius: 2px, 4px, 3px, 1px;
     background-image: linear-gradient(to top, rgb(123, 123, 126), rgb(215, 218, 220));
 font-weight: bold;
 }
 
 #container3{
     border-radius: 7px;
-    background-image: linear-gradient(to top, rgb(180, 180, 199), rgb(41, 17, 223), rgb(5, 5, 157));
+    background-image: linear-gradient(to top, rgb(5, 5, 157)  rgb(41, 17, 223), rgb(180, 180, 199));
 }
 
 #container4{
@@ -25,6 +25,7 @@ font-weight: bold;
 }
 
 #container5{
+    color: rgb(64, 64, 64);
     border-radius: 7px;
     background-image: linear-gradient(to top, rgb(217, 15, 15), rgb(180, 9, 9));
 }
