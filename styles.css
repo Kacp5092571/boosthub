@@ -1,21 +1,9 @@
 body{
-    background-color: rgb(rgb(83, 152, 237),);
+    background-color: powderblue;
     font-family: "Comic Sans MS";
 }
 
-button{
-    border-radius: 9px;
-    display: inline;
-    align-items: center;
-}
-
 #container1{
-    background-image: linear-gradient(to bottom rgb(98, 232, 237) rgb(0, 119, 255));
-font-family: cursive;
+    border-radius: 7px;
+    background-image: linear-gradient(to top, rgb(17, 144, 223), rgb(9, 9, 178));
 }
-
-#container2{
-    background-image: linear-gradient(to bottom rgb(98, 232, 237) rgb(0, 119, 255));
-font-family: cursive;
-}
-
