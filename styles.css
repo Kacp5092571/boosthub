@@ -13,3 +13,8 @@ body{
     background-image: linear-gradient(to top, rgb(123, 123, 126), rgb(215, 218, 220));
 font-weight: bold;
 }
+
+#container3{
+    border-radius: 7px;
+    background-image: linear-gradient(to top, rgb(180, 180, 199), rgb(41, 17, 223), rgb(5, 5, 157));
+}
