@@ -7,3 +7,9 @@ body{
     border-radius: 7px;
     background-image: linear-gradient(to top, rgb(9, 9, 178), rgb(17, 144, 223));
 }
+
+#container2{
+    border-radius: 2px;
+    background-image: linear-gradient(to top, rgb(123, 123, 126), rgb(215, 218, 220));
+font-weight: bold;
+}
