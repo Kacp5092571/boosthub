@@ -6,6 +6,7 @@ body{
 #container1{
     border-radius: 7px;
     background-image: linear-gradient(to top, rgb(9, 9, 178), rgb(17, 144, 223));
+font-family: cursive;
 }
 
 #container2{
@@ -16,7 +17,11 @@ font-weight: bold;
 
 #container3{
     border-radius: 7px;
-    background-image: linear-gradient(to top, rgb(5, 5, 157),  rgb(41, 17, 223), rgb(180, 180, 199));
+    background-image: linear-gradient(to top, 
+    rgb(5, 5, 157),  
+    rgb(41, 17, 223), 
+    rgb(180, 180, 199)
+    );
 }
 
 #container4{
