@@ -5,5 +5,5 @@ body{
 
 #container1{
     border-radius: 7px;
-    background-image: linear-gradient(to top, rgb(17, 144, 223), rgb(9, 9, 178));
+    background-image: linear-gradient(to top, rgb(9, 9, 178), rgb(17, 144, 223));
 }
