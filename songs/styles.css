@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(32, 148, 243);
+    font-family: "Comic Sans MS";
+}
+
+#container1{
+    border-radius: 7px;
+    background-image: linear-gradient(to top, rgb(9, 9, 178), rgb(17, 144, 223));
+font-family: cursive;
+}
+
+#container2{
+    border-radius: 2px, 4px, 3px, 1px;
+    background-image: linear-gradient(to top, rgb(123, 123, 126), rgb(215, 218, 220));
+font-weight: bold;
+}
+
+#container3{
+    border-radius: 7px;
+    background-image: linear-gradient(to top, 
+    rgb(5, 5, 157),  
+    rgb(41, 17, 223), 
+    rgb(180, 180, 199)
+    );
+}
+
+#container4{
+    border-radius: 12px;
+    background-image: linear-gradient(to top, rgb(255, 255, 255), rgb(223, 175, 17), rgb(157, 127, 5));
+}
+#containeryt{
+    color: rgb(64, 64, 64);
+    border-radius: 7px;
+    background-image: linear-gradient(to top, rgb(217, 15, 15), rgb(180, 9, 9));
+}
+#container5{
+    border-radius: 20px;
+    background-image: linear-gradient(to top, rgb(238, 255, 0), rgb(255, 72, 0));
+font-family: cursive;
+}
