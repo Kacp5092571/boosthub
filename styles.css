@@ -5,6 +5,7 @@ font-family: "Arial";
 
 .bubblecloud{
     position: sticky;
+    top: 0px;
     background-color: azure;
     border-radius: 15px, 13px, 10px, 15px, 13px, 10px;
 }
